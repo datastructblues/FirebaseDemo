@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630808636825",
+    "project_id": "fir-demo-6ff3a",
+    "storage_bucket": "fir-demo-6ff3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630808636825:android:0fd1cf4f25d43976fc3708",
+        "android_client_info": {
+          "package_name": "com.datastructblues.firebaseinstagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630808636825-dk75cmujv144ud07p0r735nflvomq44l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsMe5L1cemT4weHwO8PHAigri2g95F41g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630808636825-dk75cmujv144ud07p0r735nflvomq44l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
