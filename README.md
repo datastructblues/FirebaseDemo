@@ -7,7 +7,7 @@ It's a basic social media app, that you can sign in/up and upload images with a 
 
 > UUID.class
 
-> Recycler View
+> RecyclerView
 
 > Glide Library
 
